@@ -1,6 +1,10 @@
 # 20-team-daeng-ddang-wiki
 
 ### [WIKI 페이지](https://github.com/100-hours-a-week/20-team-daeng-ddang-wiki/wiki)에 기록되어 있습니다.
+* [🖥️ BE WIKI](https://github.com/100-hours-a-week/20-team-daeng-ddang-wiki/wiki/%F0%9F%96%A5%EF%B8%8F-Backend-Wiki)
+* [📱 FE WIKI](https://github.com/100-hours-a-week/20-team-daeng-ddang-wiki/wiki/Frontend-Wiki)
+* [🤖 AI WIKI](https://github.com/100-hours-a-week/20-team-daeng-ddang-wiki/wiki/AI-Wiki)
+* [☁️ CLOUD WIKI](https://github.com/100-hours-a-week/20-team-daeng-ddang-wiki/wiki/Cloud-Wiki)
 
 # 🐾 댕동여지도
 <img width="3840" alt="image" src="https://github.com/user-attachments/assets/c1ae28ec-395b-4215-92cf-f06d4d7d6ff5" />
